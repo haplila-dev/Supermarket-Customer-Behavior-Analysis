@@ -1,9 +1,8 @@
 # Supermarket-Customer-Behavior-Analysis
 Data analytics project exploring supermarket customer behavior, spending trends, and campaign performance.
+Capstone Project Module 3 — Customer Analytics & Business Intelligence.
 
-# Supermarket Customer Behavior Analysis
-
-Capstone Project Module 3 — Customer Analytics & Business Intelligence
+---
 
 ## Project Overview
 
